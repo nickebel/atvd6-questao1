@@ -1,5 +1,5 @@
 for(var i = 1; i < 20; i++){
 
-        console.log("Eu gosto de estudar Algoritmos!");
+        alert("Eu gosto de estudar Algoritmos!");
     
 }
